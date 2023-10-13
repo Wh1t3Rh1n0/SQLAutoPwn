@@ -6,7 +6,7 @@
 
 ---
 
-## Example Usage (Automatic)
+## Example Usage
 
 1. Import PowerUpSQL and `SQLAutoPwn.ps1` into the same PowerShell process.
 
